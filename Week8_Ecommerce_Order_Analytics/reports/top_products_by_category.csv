@@ -1,0 +1,13 @@
+product_id,product_name,category,total_revenue,revenue_rank
+P0033,Comics,Books,153435.87,1
+P0049,Textbook,Books,90034.24,2
+P0085,Textbook,Books,83798.74,3
+P0251,T-Shirt,Clothing,96220.15,1
+P0140,Dress,Clothing,90572.83,2
+P0394,T-Shirt,Clothing,81951.49,3
+P0177,Headphones,Electronics,113374.37,1
+P0439,Headphones,Electronics,106030.82,2
+P0303,Keyboard,Electronics,86154.67,3
+P0200,Curtains,Home,111677.14,1
+P0018,Curtains,Home,94424.59,2
+P0217,Curtains,Home,80584.06,3

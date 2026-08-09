@@ -1,0 +1,31 @@
+
+========================================
+E-COMMERCE DATA QUALITY REPORT
+========================================
+
+RAW DATA
+----------------------------------------
+Customers       : 500
+Products        : 500
+Orders          : 1000
+Order Items     : 2000
+
+DATA QUALITY ISSUES
+----------------------------------------
+Missing customer IDs     : 50
+Negative quantities      : 60
+Invalid emails           : 10
+Product names normalized : 40
+Duplicate orders removed : 0
+Invalid order references : 0
+
+CLEANED DATA
+----------------------------------------
+Customers       : 500
+Products        : 500
+Orders          : 1000
+Order Items     : 2000
+
+========================================
+END OF REPORT
+========================================

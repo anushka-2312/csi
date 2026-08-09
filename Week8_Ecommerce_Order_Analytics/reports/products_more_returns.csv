@@ -1,0 +1,10 @@
+product_id,product_name,purchase_quantity,return_quantity
+P0041,Cushion,0,5
+P0092,Mobile,3,5
+P0107,Mobile,2,5
+P0287,Biography,1,5
+P0028,Keyboard,3,4
+P0086,Shoes,1,4
+P0472,Table,0,3
+P0448,Textbook,1,2
+P0130,T-Shirt,0,1
